@@ -5,7 +5,7 @@ def HDL_analysis(HDL_level):
         return "Borderline low"
     else:
         return "Low"
-      
+
         
 def LDL_analysis(LDL_level):
     if LDL_level < 130:
