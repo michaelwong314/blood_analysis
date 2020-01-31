@@ -32,6 +32,12 @@ def cholesterol_analysis():
 
 def new_feature():
     pass
+<<<<<<< HEAD
+=======
+def name_function():
+    first_name = input ("first name")
+    last_name = input ("last name")
+>>>>>>> b3fb46d966dec6c978f732ba47b28e574591cc38
 
 def interface():
     choice = 0
