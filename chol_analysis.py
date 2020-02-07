@@ -11,7 +11,7 @@ def LDL_analysis(LDL_level):
     if LDL_level < 130:
         return "Normal"
     elif 130 <= LDL_level <= 159:
-        return "Borderline high"
+        return "Borderline highmet
     elif 160 <= LDL_level <= 189:
         return "High"
     elif 190 <= LDL_level:
@@ -36,10 +36,13 @@ def cholesterol_analysis():
 #    pass
 # <<<<<<< HEAD
 # =======
-# def name_function():
-#    first_name = input ("first name")
-#    last_name = input ("last name")
-# >>>>>>> b3fb46d966dec6c978f732ba47b28e574591cc38
+ def name_function():
+    first_name = input ("first name")
+    last_name = input ("last name")
+
+
+def create_dictionary{}:
+    new_patient = First name: "first_name", Last name: "last_name"
 
 
 def interface():
